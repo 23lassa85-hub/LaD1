@@ -1,0 +1,14 @@
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\bin\Debug\net9.0\e2.exe
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\bin\Debug\net9.0\e2.deps.json
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\bin\Debug\net9.0\e2.runtimeconfig.json
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\bin\Debug\net9.0\e2.dll
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\bin\Debug\net9.0\e2.pdb
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\obj\Debug\net9.0\e2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\obj\Debug\net9.0\e2.AssemblyInfoInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\obj\Debug\net9.0\e2.AssemblyInfo.cs
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\obj\Debug\net9.0\e2.csproj.CoreCompileInputs.cache
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\obj\Debug\net9.0\e2.dll
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\obj\Debug\net9.0\refint\e2.dll
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\obj\Debug\net9.0\e2.pdb
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\obj\Debug\net9.0\e2.genruntimeconfig.cache
+C:\Users\andre\OneDrive\Рабочий стол\все лабы\переделанные_лабы\lab1\obj\Debug\net9.0\ref\e2.dll
